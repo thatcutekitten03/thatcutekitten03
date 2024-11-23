@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Cutekitten03
 - 👀 I’m interested in python, css, html & stage lighting
-- 💞️ I’m looking forward to make applications for my school
 - 📫 To directly talk to me please dm me.
 - ⚡ Fun fact: tastschreibgenie is german for keyboardwritinggenie
 
